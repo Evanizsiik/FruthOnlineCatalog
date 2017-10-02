@@ -1,0 +1,12 @@
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/FruthPharmacy.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/Newtonsoft.Json.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Net.Http.Formatting.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.WebHost.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Net.Http.Formatting.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.WebHost.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/Newtonsoft.Json.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/obj/Release/FruthPharmacy.csproj.CoreCompileInputs.cache
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/obj/Release/FruthPharmacy.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/obj/Release/FruthPharmacy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{514393A0-4E3B-4E50-A9D4-51B11A206480}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FruthPharmacy/Signup.aspx.cs">
+    <Files>
+      <File FileName="FruthPharmacy/Default.aspx" Line="54" Column="43" />
+      <File FileName="FruthPharmacy/Signup.aspx" Line="21" Column="45" />
+      <File FileName="FruthPharmacy/Signup.aspx.cs" Line="20" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FruthPharmacy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

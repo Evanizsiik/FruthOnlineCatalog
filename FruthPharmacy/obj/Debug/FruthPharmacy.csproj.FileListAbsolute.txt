@@ -1,0 +1,28 @@
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/FruthPharmacy.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/FruthPharmacy.pdb
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/Newtonsoft.Json.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Net.Http.Formatting.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.WebHost.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Net.Http.Formatting.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/System.Web.Http.WebHost.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/bin/Newtonsoft.Json.xml
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/obj/Debug/FruthPharmacy.csprojResolveAssemblyReference.cache
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/obj/Debug/FruthPharmacy.csproj.CoreCompileInputs.cache
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/obj/Debug/FruthPharmacy.dll
+/home/evan/Projects/FruthPharmacy/FruthPharmacy/obj/Debug/FruthPharmacy.pdb
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\FruthPharmacy.dll
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\FruthPharmacy.pdb
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\Newtonsoft.Json.dll
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\System.Net.Http.Formatting.dll
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\System.Web.Http.dll
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\System.Web.Http.WebHost.dll
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\System.Net.Http.Formatting.xml
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\System.Web.Http.xml
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\System.Web.Http.WebHost.xml
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\bin\Newtonsoft.Json.xml
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\obj\Debug\FruthPharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\obj\Debug\FruthPharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\obj\Debug\FruthPharmacy.dll
+C:\Users\Evan Henry\Desktop\FruthPharmacy\FruthPharmacy\obj\Debug\FruthPharmacy.pdb
